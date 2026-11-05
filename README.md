@@ -19,4 +19,4 @@ This implementation is known to fail the Apple TechStep ADB test, per [this](htt
 
 ## Download
 
-[Click here.](https://github.com/lampmerchant/macseadb88/releases/download/20230122/macseadb88.HEX)
+[Click here.](https://github.com/kris92/macseadb88_extclock/releases/download/20261105/macseadb88_ext.HEX)
