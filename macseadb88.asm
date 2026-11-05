@@ -38,7 +38,7 @@
 	list		P=PIC16F88, F=INHX32, ST=OFF, MM=OFF, R=DEC, X=ON
 	#include	P16F88.inc
 	__config	_CONFIG1, _EXTCLK & _WDT_OFF & _PWRTE_ON & _MCLR_ON & _BOREN_OFF & _LVP_OFF & _CPD_OFF & _WRT_OFF & _DEBUG_OFF & _CCP1_RB0 & _CP_OFF
-			;_INTRC_IO   internal RC osc, port I/O on RA7-RA6
+			;_EXTCLK     external clock on pin 16
 			;_WDT_OFF    watchdog timer off
 			;_PWRTE_ON   power-on timer on
 			;_MCLR_ON    !MCLR function on !MCLR pin
