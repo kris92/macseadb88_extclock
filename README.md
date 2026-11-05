@@ -1,6 +1,9 @@
 # macseadb88
 
-Drop-in replacement for the Macintosh SE's stock ADB controller.  Rough adaptation of original PIC1654S code.
+Almost Drop-in replacement of @lampmerchant for the Macintosh SE's stock ADB controller.  Rough adaptation of original PIC1654S code.
+This version need an external 1.8Mhz clock on pin 16. See issue : (https://github.com/lampmerchant/macseadb88/issues/1)
+
+
 
 ## Status
 
