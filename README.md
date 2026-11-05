@@ -3,7 +3,7 @@
 Almost Drop-in replacement of @lampmerchant for the Macintosh SE's stock ADB controller.  Rough adaptation of original PIC1654S code.
 This version need an external 1.8Mhz clock on pin 16. See issue : (https://github.com/lampmerchant/macseadb88/issues/1)
 
-
+![grafik](https://github.com/user-attachments/assets/3579cca1-1f01-40bb-b2e9-408863d7b4dc)
 
 ## Status
 
